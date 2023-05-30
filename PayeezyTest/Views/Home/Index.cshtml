@@ -1,0 +1,88 @@
+﻿@model PayeezyTest.Dto.PaymentDetailDto;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="ace-body section">
+    <div class="container py-4">
+        <div class="row mt-0 mx-0">
+            <div class="col-md-8 mt-2 d-flex align-items-center">
+                <span class="ace-sub-title">Pay Transaction Details</span>
+            </div>
+        </div>
+        <div class="row mt-0 mx-0">
+            <div class="col-md-6 mt-2 offset-md-3">
+                <div class="ace-card p-lg-4 p-2 mt-lg-4 mt-2">
+                    <form id="formLogin" asp-action="PayTransaction" asp-controller="Home" method="POST" data-ajax="true" data-ajax-update="response" data-ajax-begin="onBegin" data-ajax-complete="onComplete" data-ajax-failure="onFailed" data-ajax-success="onPaySuccess">
+                        <!-- Company part -->
+                        <div id="response"></div>
+                        <input type="hidden" value="@ViewBag.ReturnUrl" name="ReturnUrl" id="ReturnUrl" />
+                        <div class="row mt-0">
+                            <div class="col-md-12 mt-3">
+                                <div class="form-wrap">
+                                    @Html.LabelFor(x => x.Amount, "Amount")
+                                    @Html.TextBoxFor(x => x.Amount, new { @class = "ace-form-input form-control-has-validation form-control-last-child", placeholder = "1299" })
+                                    @Html.ValidationMessageFor(x => x.Amount)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-0">
+                            <div class="col-md-12 mt-3">
+                                <div class="form-wrap">
+                                    @Html.LabelFor(x => x.CardHolderName, "Card Holder Name")
+                                    @Html.TextBoxFor(x => x.CardHolderName, new { @class = "ace-form-input form-control-has-validation form-control-last-child", placeholder = "Test card" })
+                                    @Html.ValidationMessageFor(x => x.CardHolderName)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-0">
+                            <div class="col-md-12 mt-3">
+                                <div class="form-wrap">
+                                    @Html.LabelFor(x => x.CardNumber, "CardNumber")
+                                    @Html.TextBoxFor(x => x.CardNumber, new { @class = "card-num ace-form-input form-control-has-validation form-control-last-child", placeholder = "4012 0000 3333 0026" })
+                                    @Html.ValidationMessageFor(x => x.CardNumber)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-0">
+                            <div class="col-md-12 mt-3">
+                                <div class="form-wrap">
+                                    @Html.LabelFor(x => x.ExpireDate, "ExpireDate")
+                                    @Html.TextBoxFor(x => x.ExpireDate, new { @class = "exp-date ace-form-input form-control-has-validation form-control-last-child", placeholder = "12/22" })
+                                    @Html.ValidationMessageFor(x => x.ExpireDate)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-0">
+                            <div class="col-md-12 mt-3">
+                                <div class="form-wrap">
+                                    @Html.LabelFor(x => x.Cvv, "Cvv")
+                                    @Html.TextBoxFor(x => x.Cvv, new { @class = "ace-form-input form-control-has-validation form-control-last-child", placeholder = "123" })
+                                    @Html.ValidationMessageFor(x => x.Cvv)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-0">
+                            <div class="col-12 mt-3 text-center">
+                                <button class="btn ace-btn-register"><span class="">Pay Money</span></button>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $(".exp-date").mask('00/00');
+        $(".card-num").mask('0000 0000 0000 0000')
+        
+        
+    });
+</script>
+}

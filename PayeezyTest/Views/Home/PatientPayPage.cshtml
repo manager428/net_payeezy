@@ -1,0 +1,188 @@
+﻿@using System.Globalization
+@model PayeezyTest.Dto.PaymentDetailDto;
+@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    table {
+            width: 100%;
+            border: solid 2px #BABABA;
+        }
+        thead th {
+            border: solid 1px #646464;
+            text-align: left;
+            color: #212BA6;
+            font-size: 18px;
+            height: 54px;
+            background-color: #DEE4FE;
+        }
+        tbody tr td {
+            border: solid 1px #646464;
+        }
+        tbody tr td:first-child {
+            width: 25%;
+        }
+        tbody tr td:last-child {
+            width: 75%;
+        }
+        tbody tr td input, .ace-form-input{
+            width: 90%;
+            height: 100%;
+            margin-left: 5%;
+            margin5%;
+        }
+        .height-location {
+            height: 54px;
+        }
+</style>
+<section class="ace-body section">
+    <div class="container py-4">
+        <div class="row mt-0 mx-0">
+            <div class="col-md-6 mt-2 d-flex align-items-center">
+                <span class="ace-sub-title">Pay Transaction Details for patient</span>
+            </div>
+        </div>
+        @if(Model.PatientCoPay == null)
+        {
+            <center><span class="ace-sub-title text-red">There is no data</span></center>
+        }else
+        {
+            <div class="row mt-0 mx-0">
+                <div class="col-md-8 mt-2 offset-md-3">
+                    <div class="ace-card p-lg-4 p-2 mt-lg-4 mt-2">
+                        <form id="formLogin" asp-action="PayTransaction" asp-controller="Home" method="POST" data-ajax="true" data-ajax-update="response" data-ajax-begin="onBegin" data-ajax-complete="onComplete" data-ajax-failure="onFailed" data-ajax-success="onPaySuccess">
+                            <!-- Table -->
+                            <div id="response"></div>
+                            <table>
+                                <thead>
+                                    <th colspan="2">
+                                        Patient Information
+                                    </th>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Last Name</td>
+                                        <td>
+                                            @Model.PatientCoPay.PatientLN
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>First Name</td>
+                                        <td>
+                                            @Model.PatientCoPay.PatientFN
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Email Address</td>
+                                        <td>
+                                            @Model.PatientCoPay.Email
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Date of Birth</td>
+                                        <td>
+                                            @Model.PatientCoPay.DOB.ToString("MM/dd/yyyy")
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Insurance Company</td>
+                                        <td>
+                                            @Model.PatientCoPay.InsuranceCoName
+                                        </td>
+                                    </tr>
+                                </tbody>
+                                <thead>
+                                    <th colspan="2">
+                                        Sleep Study Information
+                                    </th>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Study Date</td>
+                                        <td>
+                                            @Model.PatientCoPay.ADate.ToString("ddd, MM/dd/yyyy")
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Study Time</td>
+                                        <td>
+                                            @Model.PatientCoPay.ADate.ToString("hh:mm tt")
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="height-location">Location</td>
+                                        <td class="height-location">
+                                            @Model.PatientCoPay.LocationName<br/>@Model.PatientCoPay.Address<br/>@Model.PatientCoPay.City, @Model.PatientCoPay.State @Model.PatientCoPay.ZipCode
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>Nocturna ID</td>
+                                        <td>
+                                            @Model.PatientCoPay.PatientID/@Model.PatientCoPay.Appointment_ReferralID
+                                        </td>
+                                    </tr>
+                                </tbody>
+                                <thead>
+                                    <th colspan="2">
+                                        Co-Payment Due  @Model.PatientCoPay.AmountDue.ToString("C", new CultureInfo("en-US"))
+                                    </th>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="border-0 pt-3">Card Holder Name</td>
+                                        <td class="border-0 pt-3">
+                                            @Html.TextBoxFor(x => x.CardHolderName, new { @class = "ace-form-input form-control-has-validation form-control-last-child", placeholder = "Test card" })
+                                            @Html.ValidationMessageFor(x => x.CardHolderName)
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border-0">CardNumber</td>
+                                        <td class="border-0">
+                                            @Html.TextBoxFor(x => x.CardNumber, new { @class = "card-num ace-form-input form-control-has-validation form-control-last-child", placeholder = "4012 0000 3333 0026" })
+                                            @Html.ValidationMessageFor(x => x.CardNumber)
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border-0">ExpireDate</td>
+                                        <td class="border-0">
+                                            @Html.TextBoxFor(x => x.ExpireDate, new { @class = "exp-date ace-form-input form-control-has-validation form-control-last-child", placeholder = "12/22" })
+                                            @Html.ValidationMessageFor(x => x.ExpireDate)
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="border-0">Cvv</td>
+                                        <td class="border-0">
+                                            @Html.TextBoxFor(x => x.Cvv, new { @class = "ace-form-input form-control-has-validation form-control-last-child", placeholder = "123" })
+                                            @Html.ValidationMessageFor(x => x.Cvv)
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" class="text-center border-0 py-3">
+                                            @Html.HiddenFor(x =>x.Amount)
+                                            @Html.HiddenFor(x =>x.ReferalId)
+                                            <button class="btn ace-btn-register"><span class="">Pay Money</span></button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+        
+    </div>
+</section>
+
+@section Scripts {
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $(".exp-date").mask('00/00');
+        $(".card-num").mask('0000 0000 0000 0000')
+        $("#preloader").removeClass('loaderActive');
+        $("#preloader").addClass('loaded');
+        
+    });
+</script>
+}

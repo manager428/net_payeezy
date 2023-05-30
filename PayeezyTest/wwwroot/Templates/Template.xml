@@ -1,0 +1,2032 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Template>
+  <Contactus>
+    <Subject>Rank Ride Enquiry</Subject>
+    <Body>
+      <![CDATA[
+      <!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700,800,900|Nunito:400,600,700,800,900&display=swap" rel="stylesheet">
+    <title>@@@title</title>
+
+</head>
+<body style="background-color: #f7f7f7; height: 100%; margin: 0; padding: 0; width: 100%">
+    <center>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" style="border-collapse: collapse;background-color: #f7f7f7; height: 100%; margin: 0; padding: 0; width:100%" width="100%">
+            <tr>
+                <td align="center" id="bodyCell" style="border-top: 0;height: 100%; margin: 0; padding: 0; width: 100%" valign="top">
+
+                    <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" style="border-collapse: collapse; max-width: 600px; background:#f9f9f9;border: 0" width="100%">
+                        <tr>
+                            <td id="templatePreheader" style="background-color: #b18837;border-top: 0; border-bottom: 0; padding-top: 16px; padding-bottom: 8px" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="border-collapse: collapse;min-width:100%;" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse; min-width:100%;" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word;color: #fff; font-size: 30px; line-height: 24px; text-align: center; padding:9px 18px;' valign="top">
+                                                                Welcome to RankRide
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="templateBody" style="background-color: #fff; border-top: 0; border-bottom: 0; padding: 30px 30px" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse;min-width:100%;" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                Hello Admin,
+                                                            </td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                You received an enquiry from below information:
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                <p><b>Name: </b> @@@Name
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                <p><b>Phone: </b> @@@Phone
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                <p><b>Email: </b> @@@Email
+                                                            </td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                <p><b>Message: </b> @@@Message
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                Regards,<br />
+                                                RankRide Team
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="templateFooter" style="background-color: #282828; padding: 25px 0" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding: 18px; text-align: center;color: #fff;font-size: 12px;" valign="top">
+                                                                Got Questions? Reply directly to this email or mail us at <a style="color: #fff;" href="mailto:info@foxiie.com">info@rankride.com</a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
+
+      ]]>
+    </Body>
+  </Contactus>
+  <AccountActivation>
+    <Subject>Rank Ride: Email Confirmation</Subject>
+    <Body>
+      <![CDATA[
+      <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rank Ride: Email Confirmation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  
+  <style type="text/css">
+    table {
+      border-collapse: separate;
+    }
+
+    a,
+    a:link,
+    a:visited {
+      text-decoration: none;
+      color: #00788a;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    h2,
+    h2 a,
+    h2 a:visited,
+    h3,
+    h3 a,
+    h3 a:visited,
+    h4,
+    h5,
+    h6,
+    .t_cht {
+      color: #000 !important;
+    }
+
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td {
+      line-height: 100%;
+    }
+
+    .ExternalClass {
+      width: 100%;
+    }
+
+    @media (max-width: 600px) {
+      .main-poster {
+        background-size: 200% !important;
+      }
+    }
+
+    @media (max-width: 450px) {
+      .content {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+      }
+
+      .title {
+        font-size: 2.5rem !important;
+      }
+    }
+
+    @media (max-width: 375px) {
+      .content {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+      }
+      .main-button {
+        font-size: 12px !important;
+      }
+    }
+
+    @media (max-width: 320px) {
+      .content {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <table style="margin: 0 auto; padding: 0; max-width: 800px;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#fffff">
+    <tbody>
+      <tr style="width: 100%; height: 60px;" bgcolor="#000000">
+        <td style="text-align: center;">
+          <a href="https://rankridefantasy.com/" target="_blank" rel="noopener">
+            <img style="display: block; width: 50px; max-width: 100%; margin-left: auto; margin-right: auto;" src="https://rankridefantasy.com/images/email/logo.png" alt="Rank Ride" border="0" />
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table class="content" style="margin: 0; padding-top: 20px; padding-bottom: 20px; padding-right: 20px; padding-left: 20px;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+            <tbody>
+              <tr>
+                <td>
+                  <table style="margin: 0; " border="0" width="100%" cellspacing="0" cellpadding="0"  bgcolor="#F0D283">
+                    <tbody>
+                      <tr>
+                        <td style="padding-top: 30px;padding-bottom: 30px;" align="center" height="100%">
+                          <center style="max-width: 700px; width: 100%;">
+                            <!-- [if gte mso 9]>
+                        <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                        <![endif]-->
+                            <table class="content" style="margin: 0; padding-top: 20px; padding-bottom: 20px; padding-right: 40px; padding-left: 40px;" border="0" width="100%" cellspacing="0" cellpadding="0" >
+                              <tbody>
+                                <tr>
+                                  <td style="font-family: 'Bebas Neue', cursive; font-weight: 500; font-size: 2rem; line-height: 2.3rem; color: #df6a2e; padding-bottom: 10px; mso-line-height-rule: exactly; text-transform: uppercase;" width="100%" align="center">Welcome to Rank Ride</td>
+                                </tr>
+                                
+                                <tr>
+                                  <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; padding-bottom: 10px; mso-line-height-rule: exactly;">Howdy @@@UserName,</td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; mso-line-height-rule: exactly;">Please confirm your account by clicking the below link:
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top: 35px; padding-bottom: 35px;" align="center" width="100%">
+                                    <a class="main-button" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 500; line-height: 135%; background-color: #df6a2e; color: #ffffff; text-decoration: none; border-radius: 3px; mso-line-height-rule: exactly; padding: 12px 12px 12px 12px; " href="@@@Url" target="_blank" rel="noopener">CONFIRM MY EMAIL ACCOUNT</a>
+                                  </td>
+                                </tr>
+                                
+                                <tr>
+                                  <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; mso-line-height-rule: exactly;">Thank you,
+                                    <br>The Rank Ride Team</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!-- [if gte mso 9]>
+                        </td></tr></table>
+                        <![endif]-->
+                          </center>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr style="width: 100%;">
+        <td>
+          <table style="margin: 0; padding: 0;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
+            <tbody>
+              <tr>
+                <td align="center" height="100%">
+                  <center>
+                    <!-- [if gte mso 9]>
+                  <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                  <![endif]-->
+                    <table class="content" border="0" width="100%" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td style="padding-top: 35px; padding-bottom: 35px;" align="center" width="100%">
+                            <a style="display: inline-block; padding-right: 5px;" href="https://instagram.com/rankridefantasy?utm_medium=copy_link" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-instagram.png" alt="Instagram" />
+                            </a>
+                            <a style="display: inline-block; padding-right: 5px;" href="https://vm.tiktok.com/ZMR6XX3j8/" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-tiktok.png" alt="Tiktok" />
+                            </a>
+                            <a style="display: inline-block; padding-right: 5px;" href="https://www.facebook.com/rankrideapp/" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-facebook.png" alt="Facebook" />
+                            </a>
+                            <a style="display: inline-block;padding-right: 5px;" href="https://youtube.com/channel/UC2x0-RNeULh2AUsCR5TulFg" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-youtube.png" alt="Youtube" />
+                            </a>
+                            <a style="display: inline-block; " href="https://rankridefantasy.com/contact-us" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-getintouch.png" alt="Get in Touch" />
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style=" text-align: center;" align="center" width="100%">
+                            <a style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; line-height: 1.5rem; font-weight: 400; text-transform: uppercase;color: #F0D283;" href="{{}}" target="_blank" rel="noopener">
+                              UNSUBSCRIBE
+                            </a>
+                            <span style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-weight: 400; color: #F0D283; padding-right: 5px; padding-left: 5px;">|</span>
+                            <a style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; line-height: 1.5rem; font-weight: 400; text-transform: uppercase;color: #F0D283;" href="{{}}" target="_blank" rel="noopener">
+                              DISCLAIMER
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="padding-bottom: 60px; text-align: center;" align="center" width="100%">
+                            <p style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-weight: 400; text-transform: uppercase;color: #F0D283;" target="_blank" rel="noopener">
+                              &copy; 2021 Rank Ride All Rights Reserved
+                            </p>
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                  </center>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>
+
+      ]]>
+    </Body>
+  </AccountActivation>
+  <PasswordRequest>
+    <Subject>Rank Ride: Reset Password</Subject>
+    <Body>
+      <![CDATA[
+      <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rank Ride: Reset Password</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style type="text/css">
+    table {
+      border-collapse: separate;
+    }
+
+    a,
+    a:link,
+    a:visited {
+      text-decoration: none;
+      color: #00788a;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    h2,
+    h2 a,
+    h2 a:visited,
+    h3,
+    h3 a,
+    h3 a:visited,
+    h4,
+    h5,
+    h6,
+    .t_cht {
+      color: #000 !important;
+    }
+
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td {
+      line-height: 100%;
+    }
+
+    .ExternalClass {
+      width: 100%;
+    }
+
+    @media (max-width: 600px) {
+      .main-poster {
+        background-size: 200% !important;
+      }
+    }
+
+    @media (max-width: 450px) {
+      .content {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+      }
+
+      .title {
+        font-size: 2.5rem !important;
+      }
+    }
+
+    @media (max-width: 375px) {
+      .content {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+      }
+    }
+
+    @media (max-width: 320px) {
+      .content {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <table style="margin: 0 auto; padding: 0; max-width: 800px;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#fffff">
+    <tbody>
+      <tr style="width: 100%; height: 60px;" bgcolor="#000000">
+        <td style="text-align: center;">
+          <a href="https://rankridefantasy.com/" target="_blank" rel="noopener">
+            <img style="display: block; width: 50px; max-width: 100%; margin-left: auto; margin-right: auto;" src="https://rankridefantasy.com/images/email/logo.png" alt="Rank Ride" border="0" />
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <table class="content" style="margin: 0; padding-top: 20px; padding-bottom: 20px; padding-right: 20px; padding-left: 20px;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+            <tbody>
+              <tr>
+                <td>
+                  <table style="margin: 0; " border="0" width="100%" cellspacing="0" cellpadding="0"  bgcolor="#F0D283">
+                    <tbody>
+                      <tr>
+                        <td style="padding-top: 30px;padding-bottom: 30px;" align="center" height="100%">
+                          <center style="max-width: 500px; width: 100%;">
+                            <!-- [if gte mso 9]>
+                        <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                        <![endif]-->
+                            <table class="content" style="margin: 0; padding-top: 20px; padding-bottom: 20px; padding-right: 40px; padding-left: 40px;" border="0" width="100%" cellspacing="0" cellpadding="0" >
+                              <tbody>
+                                <tr>
+                                  <td style="font-family: 'Bebas Neue', cursive; font-weight: 500; font-size: 2rem; line-height: 2.3rem; color: #df6a2e; padding-bottom: 10px; mso-line-height-rule: exactly; text-transform: uppercase;" width="100%" align="center">RESET YOUR PASSWORD</td>
+                                </tr>
+                                <tr align="center">
+                                  <td style="padding-bottom: 20px;">
+                                    <img style="max-width: 560px; width: 100%;" src="https://rankridefantasy.com/images/email/BARBEDWIRE.png" height="22"/>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; padding-bottom: 10px; mso-line-height-rule: exactly;">Howdy @@@UserName,</td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; mso-line-height-rule: exactly;">We heard you need to reset your password. Click below and we'll get that sorted for ya! This link will expire in 48hrs.
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="padding-top: 35px; padding-bottom: 35px;" align="center" width="100%">
+                                    <a style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 500; line-height: 135%; background-color: #df6a2e; color: #ffffff; text-decoration: none; border-radius: 3px; mso-line-height-rule: exactly; padding: 12px 30px 12px 30px;" href="@@@Url" target="_blank" rel="noopener">CREATE PASSWORD</a>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; mso-line-height-rule: exactly; padding-bottom: 15px;">If you need more help please feel free to [contact us]
+                                    <br>
+                                    (Do not reply to this email its automated).
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; mso-line-height-rule: exactly;">Thanks,
+                                    <br>The Rank Ride Team</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <!-- [if gte mso 9]>
+                        </td></tr></table>
+                        <![endif]-->
+                          </center>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr style="width: 100%;">
+        <td>
+          <table style="margin: 0; padding: 0;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
+            <tbody>
+              <tr>
+                <td align="center" height="100%">
+                  <center>
+                    <!-- [if gte mso 9]>
+                  <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                  <![endif]-->
+                    <table class="content" border="0" width="100%" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td style="padding-top: 35px; padding-bottom: 35px;" align="center" width="100%">
+                            <a style="display: inline-block; padding-right: 5px;" href="https://instagram.com/rankridefantasy?utm_medium=copy_link" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-instagram.png" alt="Instagram" />
+                            </a>
+                            <a style="display: inline-block; padding-right: 5px;" href="https://vm.tiktok.com/ZMR6XX3j8/" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-tiktok.png" alt="Tiktok" />
+                            </a>
+                            <a style="display: inline-block; padding-right: 5px;" href="https://www.facebook.com/rankrideapp/" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-facebook.png" alt="Facebook" />
+                            </a>
+                            <a style="display: inline-block;padding-right: 5px;" href="https://youtube.com/channel/UC2x0-RNeULh2AUsCR5TulFg" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-youtube.png" alt="Youtube" />
+                            </a>
+                            <a style="display: inline-block; " href="https://rankridefantasy.com/contact-us" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-getintouch.png" alt="Get in Touch" />
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style=" text-align: center;" align="center" width="100%">
+                            <a style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; line-height: 1.5rem; font-weight: 400; text-transform: uppercase;color: #F0D283;" href="{{}}" target="_blank" rel="noopener">
+                              UNSUBSCRIBE
+                            </a>
+                            <span style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-weight: 400; color: #F0D283; padding-right: 5px; padding-left: 5px;">|</span>
+                            <a style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; line-height: 1.5rem; font-weight: 400; text-transform: uppercase;color: #F0D283;" href="{{}}" target="_blank" rel="noopener">
+                              DISCLAIMER
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="padding-bottom: 60px; text-align: center;" align="center" width="100%">
+                            <p style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-weight: 400; text-transform: uppercase;color: #F0D283;" target="_blank" rel="noopener">
+                              &copy; 2021 Rank Ride All Rights Reserved
+                            </p>
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                  </center>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>
+
+      ]]>
+    </Body>
+  </PasswordRequest>
+  <FreeAccountCreated>
+    <Subject>Rank Ride: Welcome</Subject>
+    <Body>
+      <![CDATA[
+      <!doctype html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rank Ride: Welcome</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style type="text/css">
+    table {
+      border-collapse: separate;
+    }
+
+    a,
+    a:link,
+    a:visited {
+      text-decoration: none;
+      color: #00788a;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    h2,
+    h2 a,
+    h2 a:visited,
+    h3,
+    h3 a,
+    h3 a:visited,
+    h4,
+    h5,
+    h6,
+    .t_cht {
+      color: #000 !important;
+    }
+
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td {
+      line-height: 100%;
+    }
+
+    .ExternalClass {
+      width: 100%;
+    }
+    
+    @media (max-width: 600px) {
+      .main-poster {
+        background-size: 200% !important;
+      }
+    }
+
+    @media (max-width: 450px) {
+      .content {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+      }
+      
+      .title {
+        font-size: 2.5rem !important;
+      }
+    }
+
+    @media (max-width: 375px) {
+      .content {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+      }
+    }
+
+    @media (max-width: 320px) {
+      .content {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <table style="margin: 0 auto; padding: 0; max-width: 800px;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#fffff">
+    <tbody>
+      <tr style="width: 100%; height: 60px;" bgcolor="#000000">
+        <td style="text-align: center;">
+          <a href="https://rankridefantasy.com/" target="_blank" rel="noopener">
+            <img style="display: block; width: 50px; max-width: 100%; margin-left: auto; margin-right: auto;" src="https://rankridefantasy.com/images/email/logo.png" alt="Rank Ride" border="0" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table class="main-poster" style="margin: 0; padding: 0; 
+                        background-image: url('https://rankridefantasy.com/images/email/background_1.png'); 
+                        background-position: top center; 
+                        background-repeat: no-repeat; 
+                        background-size: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#F0D283">
+            <tbody>
+              <tr>
+                <td align="center" height="100%">
+                  <center>
+                    <!-- [if gte mso 9]>
+                  <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                  <![endif]-->
+                    <table class="content" style="max-width: 525px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td style="padding-top: 30px; padding-bottom: 30px;" align="center">&nbsp;</td>
+                        </tr>
+                        <tr>
+                          <td style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-weight: 400; font-style: italic; font-size: 1.4rem; color: #f0d283; mso-line-height-rule: exactly; text-transform: uppercase; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);" align="center" width="100%">Howdy partner! Welcome to</td>
+                        </tr>
+                        <tr>
+                          <td class="title" style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-style: italic; font-weight: bold; font-size: 3.5rem; color: #f0d283; padding-left: 5px; padding-right: 5px; padding-bottom: 30px; mso-line-height-rule: exactly; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);" align="center" width="100%">RANK RIDE FANTASY BULL RIDING</td>
+                        </tr>
+                        <tr>
+                          <td style="text-align: right;" width="100%">
+                            <img src="https://rankridefantasy.com/images/email/buckle.png" alt="Buckle" />
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                  </center>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table style="margin: 0; padding: 0;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#F0D283">
+            <tbody>
+              <tr>
+                <td style="padding-top: 30px;" align="center" height="100%">
+                  <center style="max-width: 500px; width: 100%;">
+                    <!-- [if gte mso 9]>
+                <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                <![endif]-->
+                    <table class="content" style="margin: 0; padding-left: 20px; padding-right: 20px;" border="0" width="100%" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td style="font-family: 'Bebas Neue', cursive; font-weight: 500; font-size: 2rem; line-height: 2.3rem; color: #df6a2e; mso-line-height-rule: exactly; text-transform: uppercase;" width="100%">Thanks for joining!</td>
+                        </tr>
+                        <tr>
+                          <td style="font-family: 'Bebas Neue', cursive; font-weight: 500; font-size: 2rem; line-height: 2.3rem; color: #df6a2e; padding-bottom: 10px; mso-line-height-rule: exactly; text-transform: uppercase;" width="100%">Create a team for a chance to WIN MAJOR CASH PRIZES and GIVEAWAYS!</td>
+                        </tr>
+                        <tr>
+                          <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; padding-bottom: 10px; mso-line-height-rule: exactly;">Now that you're an official Rank Ride member, you'll get exclusive email offers and hear about new Rank Ride Gear arrivals, big events, and special promotions.</td>
+                        </tr>
+                        <tr>
+                          <td style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; line-height: 135%; color: #000000; mso-line-height-rule: exactly;">Learn how to play today and get ranking!</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-top: 35px; padding-bottom: 35px;" align="center" width="100%">
+                            <a style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 500; line-height: 135%; background-color: #df6a2e; color: #ffffff; text-decoration: none; border-radius: 3px; mso-line-height-rule: exactly; padding: 12px 30px 12px 30px;" href="https://rankridefantasy.com/" target="_blank" rel="noopener">EXPLORE THE GAME</a>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                  </center>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr style="width: 100%; height: 200px;">
+        <td>
+          <table style="margin: 0; padding: 20px;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#fff">
+            <tbody>
+              <tr>
+                <td>
+                  <center>
+                    <!-- [if gte mso 9]>
+                  <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                  <![endif]-->
+                    <table style="margin: 0; padding: 0;
+                        max-width: 560px;
+                        background-image: url('https://rankridefantasy.com/images/email/reffer-friends.png'); 
+                        background-position: top center; 
+                        background-repeat: no-repeat; 
+                        background-size: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#fff">
+                      <tbody>
+                        <tr>
+                          <td align="center" height="100%">
+                            <center>
+                              <!-- [if gte mso 9]>
+                  <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                  <![endif]-->
+                              <table class="content" border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                  <tr>
+                                    <td style="padding-top: 160px; padding-bottom: 35px;" align="center" width="100%">
+                                      <a style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 500; line-height: 135%; background-color: #df6a2e; color: #ffffff; text-decoration: none; border-radius: 3px; mso-line-height-rule: exactly; padding: 12px 30px 12px 30px;" href="https://rankridefantasy.com/" target="_blank" rel="noopener">REFER-A-FRIEND</a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                            </center>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                  </center>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr style="width: 100%;">
+        <td>
+          <table style="margin: 0; padding: 20px;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#F0D283">
+            <tbody>
+              <tr>
+                <td align="center" height="100%">
+                  <center>
+                    <!-- [if gte mso 9]>
+                  <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                  <![endif]-->
+                    <table class="content" border="0" width="100%" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <a href="https://rankridestore.com/" target="_blank" rel="noopener">
+                            <img style="max-width: 560px; width: 100%;" src="https://rankridefantasy.com/images/email/rr-gear.png">
+                          </a>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                  </center>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr style="width: 100%;">
+        <td>
+          <table style="margin: 0; padding: 0;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#F0D283">
+            <tbody>
+              <tr>
+                <td style="padding-top: 35px; padding-bottom: 35px;" align="center" width="100%">
+                  <a style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 500; line-height: 135%; background-color: #df6a2e; color: #ffffff; text-decoration: none; border-radius: 3px; mso-line-height-rule: exactly; padding: 12px 30px 12px 30px;" href="https://rankridestore.com/" target="_blank" rel="noopener">SHOP NOW</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr style="width: 100%;">
+        <td>
+          <table style="margin: 0; padding: 0;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
+            <tbody>
+              <tr>
+                <td align="center" height="100%">
+                  <center>
+                    <!-- [if gte mso 9]>
+                  <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                  <![endif]-->
+                    <table class="content" border="0" width="100%" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td style="padding-top: 35px; padding-bottom: 35px;" align="center" width="100%">
+                            <a style="display: inline-block; padding-right: 5px;" href="https://instagram.com/rankridefantasy?utm_medium=copy_link" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-instagram.png" alt="Instagram" />
+                            </a>
+                            <a style="display: inline-block; padding-right: 5px;" href="https://vm.tiktok.com/ZMR6XX3j8/" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-tiktok.png" alt="Tiktok" />
+                            </a>
+                            <a style="display: inline-block; padding-right: 5px;" href="https://www.facebook.com/rankrideapp/" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-facebook.png" alt="Facebook" />
+                            </a>
+                            <a style="display: inline-block;padding-right: 5px;" href="https://youtube.com/channel/UC2x0-RNeULh2AUsCR5TulFg" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-youtube.png" alt="Youtube" />
+                            </a>
+                            <a style="display: inline-block; " href="https://rankridefantasy.com/contact-us" target="_blank" rel="noopener">
+                              <img src="https://rankridefantasy.com/images/email/icon-getintouch.png" alt="Get in Touch" />
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style=" text-align: center;" align="center" width="100%">
+                            <a style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; line-height: 1.5rem; font-weight: 400; text-transform: uppercase;color: #F0D283;" href="{{}}" target="_blank" rel="noopener">
+                              UNSUBSCRIBE
+                            </a>
+                            <span style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-weight: 400; color: #F0D283; padding-right: 5px; padding-left: 5px;">|</span>
+                            <a style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; line-height: 1.5rem; font-weight: 400; text-transform: uppercase;color: #F0D283;" href="{{}}" target="_blank" rel="noopener">
+                              DISCLAIMER
+                            </a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="padding-bottom: 60px; text-align: center;" align="center" width="100%">
+                            <p style="font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif; font-weight: 400; text-transform: uppercase;color: #F0D283;" target="_blank" rel="noopener">
+                              &copy; 2021 Rank Ride All Rights Reserved
+                            </p>
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- [if gte mso 9]>
+                </td></tr></table>
+                <![endif]-->
+                  </center>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>
+
+      ]]>
+    </Body>
+  </FreeAccountCreated>
+
+  <AccountCreated>
+    <Subject>Rank Ride Account Registration</Subject>
+    <Body>
+      <![CDATA[
+      <!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700,800,900|Nunito:400,600,700,800,900&display=swap" rel="stylesheet">
+    <title>@@@Title</title>
+
+</head>
+<body style="background-color: #f7f7f7; height: 100%; margin: 0; padding: 0; width: 100%">
+    <center>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" style="border-collapse: collapse;background-color: #f7f7f7; height: 100%; margin: 0; padding: 0; width:100%" width="100%">
+            <tr>
+                <td align="center" id="bodyCell" style="border-top: 0;height: 100%; margin: 0; padding: 0; width: 100%" valign="top">
+
+                    <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" style="border-collapse: collapse; max-width: 600px; background:#f9f9f9;border: 0" width="100%">
+                        <tr>
+                            <td id="templatePreheader" style="background-color: #b18837;border-top: 0; border-bottom: 0; padding-top: 16px; padding-bottom: 8px" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="border-collapse: collapse;min-width:100%;" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse; min-width:100%;" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word;color: #fff; font-size: 30px; line-height: 24px; text-align: center; padding:9px 18px;' valign="top">
+                                                                Welcome to RankRide
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="templateBody" style="background-color: #fff; border-top: 0; border-bottom: 0; padding: 30px 30px" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse;min-width:100%;" width="100%">
+                                                    <tbody>
+                                                      <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                Username: @@@Email<br>
+                                                                TempPassword: @@@Password
+
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                Hello Rank Ride Player
+
+
+                                                            </td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                <p>We do apologize to all our great Players. Because of a technical glitch with our Rank Ride Fantasy website, we have been down this week. Now that it is back up, we had to reset everyones password. To log in for the PBR Finals contest tonight, we request that you go to the login page and request a password reset on your account. Sorry for the inconvenience these problem have caused. We hope everyone enjoys the PBR Finals.</p>
+
+
+                                                            </td>
+                                                        </tr>
+                                                        <br/>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                               <p>We have extended the Team formation until the start of the final round on the 15th.</p>
+
+<p>We plan to have a new and more exciting experience going into the new year. We do appreciate you and plan on some big things next season.</p>
+
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <br/>
+                                        <tr>
+                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                Thank You Regards,<br />
+                                                The Rank Ride Team
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="templateFooter" style="background-color: #282828; padding: 25px 0" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding: 18px; text-align: center;color: #fff;font-size: 12px;" valign="top">
+                                                                Got Questions? Reply directly to this email or mail us at <a style="color: #fff;" href="mailto:info@foxiie.com">info@rankride.com</a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
+
+      ]]>
+    </Body>
+  </AccountCreated>
+  <ShopifyAccountActivation>
+    <Subject>Rank Ride email Confirmation</Subject>
+    <Body>
+      <![CDATA[
+      <!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700,800,900|Nunito:400,600,700,800,900&display=swap" rel="stylesheet">
+    <title>@@@title</title>
+
+</head>
+<body style="background-color: #f7f7f7; height: 100%; margin: 0; padding: 0; width: 100%">
+    <center>
+        <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" id="bodyTable" style="border-collapse: collapse;background-color: #f7f7f7; height: 100%; margin: 0; padding: 0; width:100%" width="100%">
+            <tr>
+                <td align="center" id="bodyCell" style="border-top: 0;height: 100%; margin: 0; padding: 0; width: 100%" valign="top">
+
+                    <table border="0" cellpadding="0" cellspacing="0" class="templateContainer" style="border-collapse: collapse; max-width: 600px; background:#f9f9f9;border: 0" width="100%">
+                        <tr>
+                            <td id="templatePreheader" style="background-color: #b18837;border-top: 0; border-bottom: 0; padding-top: 16px; padding-bottom: 8px" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="border-collapse: collapse;min-width:100%;" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse; min-width:100%;" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word;color: #fff; font-size: 30px; line-height: 24px; text-align: center; padding:9px 18px;' valign="top">
+                                                                Welcome to RankRide
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="templateBody" style="background-color: #fff; border-top: 0; border-bottom: 0; padding: 30px 30px" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse;min-width:100%;" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                Hello @@@UserEmail,
+                                                            </td>
+                                                        </tr>
+                                                          <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                <strong>Username: </strong>@@@UserEmail
+                                                            </td>
+                                                        </tr>
+                                                         <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                               <strong>Temp password: </strong>@@@Password
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                Please confirm your account by Clicking on below Link:
+                                                            </td>
+                                                        </tr>
+                                                        <br/>
+                                                        <tr>
+                                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                                <p><a href='@@@Url' style='padding: 11px;background-color: #b18837;border-radius: 5px;text-decoration: none;color: #fff;'>Confirm My Email Account!!</a>.</p>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <br/>
+                                        <tr>
+                                            <td class="mcnTextContent" style='word-break: break-word; color: #2a2a2a;font-size: 16px; line-height: 24px; text-align: left; padding:9px 18px;' valign="top">
+                                                Regards,<br />
+                                                RankRide Team
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="templateFooter" style="background-color: #282828; padding: 25px 0" valign="top">
+                                <table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="min-width:100%;" width="100%">
+                                    <tbody class="mcnTextBlockOuter">
+                                        <tr>
+                                            <td class="mcnTextBlockInner" valign="top">
+
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td style="padding: 18px; text-align: center;color: #fff;font-size: 12px;" valign="top">
+                                                                Got Questions? Reply directly to this email or mail us at <a style="color: #fff;" href="mailto:info@foxiie.com">info@rankride.com</a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
+
+      ]]>
+    </Body>
+  </ShopifyAccountActivation>
+  <InviteEmailSent>
+    <Subject>@@@FriendName invites you to join Rank Ride</Subject>
+    <Body>
+      <![CDATA[
+      <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rank Ride: Welcome</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <style type="text/css">
+      table {
+        border-collapse: separate;
+      }
+
+      a,
+      a:link,
+      a:visited {
+        text-decoration: none;
+        color: #00788a;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      h2,
+      h2 a,
+      h2 a:visited,
+      h3,
+      h3 a,
+      h3 a:visited,
+      h4,
+      h5,
+      h6,
+      .t_cht {
+        color: #000 !important;
+      }
+
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td {
+        line-height: 100%;
+      }
+
+      .ExternalClass {
+        width: 100%;
+      }
+
+      @media (max-width: 650px) {
+        .main-poster {
+          background-size: auto 120% !important;
+          padding-top: 70px !important;
+          padding-bottom: 70px !important;
+        }
+
+        .title {
+          font-size: 2.5rem !important;
+        }
+      }
+
+      @media (max-width: 450px) {
+        .main-poster {
+          background-size: auto 140% !important;
+          padding-top: 50px !important;
+          padding-bottom: 50px !important;
+        }
+
+        .content {
+          padding-left: 30px !important;
+          padding-right: 30px !important;
+        }
+
+        .title {
+          font-size: 2rem !important;
+        }
+      }
+
+      @media (max-width: 375px) {
+        .content {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+      }
+
+      @media (max-width: 320px) {
+        .content {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <table
+      style="margin: 0 auto; padding: 0; max-width: 800px"
+      border="0"
+      width="100%"
+      cellspacing="0"
+      cellpadding="0"
+      bgcolor="#ffffff"
+    >
+      <tbody>
+        <tr style="width: 100%; height: 60px" bgcolor="#000000">
+          <td style="text-align: center">
+            <a
+              href="https://rankridefantasy.com/"
+              target="_blank"
+              rel="noopener"
+            >
+              <img
+                style="
+                  display: block;
+                  width: 50px;
+                  max-width: 100%;
+                  margin-left: auto;
+                  margin-right: auto;
+                "
+                src="https://rankridefantasy.com/images/email/logo.png"
+                alt="Rank Ride"
+                border="0"
+              />
+            </a>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <table
+              class="content"
+              style="
+                margin: 0;
+                padding-top: 20px;
+                padding-bottom: 20px;
+                padding-right: 20px;
+                padding-left: 20px;
+              "
+              border="0"
+              width="100%"
+              cellspacing="0"
+              cellpadding="0"
+              bgcolor="#ffffff"
+            >
+              <tbody>
+                <tr>
+                  <td>
+                    <table
+                      style="margin: 0"
+                      border="0"
+                      width="100%"
+                      cellspacing="0"
+                      cellpadding="0"
+                      bgcolor="#F0D283"
+                    >
+                      <tbody>
+                        <tr>
+                          <td
+                            style="padding-top: 30px; padding-bottom: 30px"
+                            align="center"
+                            height="100%"
+                          >
+                            <center style="max-width: 550px; width: 100%">
+                              <!-- [if gte mso 9]>
+                        <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                        <![endif]-->
+                              <table
+                                style="
+                                  margin: 0;
+                                  padding-top: 20px;
+                                  padding-bottom: 20px;
+                                  padding-right: 20px;
+                                  padding-left: 20px;
+                                "
+                                border="0"
+                                width="100%"
+                                cellspacing="0"
+                                cellpadding="0"
+                              >
+                                <tbody>
+                                  <tr align="center">
+                                    <td style="padding-bottom: 40px">
+                                      <img
+                                        style="max-width: 560px; width: 100%"
+                                        src="https://rankridefantasy.com/images/email/BARBEDWIRE.png"
+                                        height="22"
+                                      />
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td
+                                      style="
+                                        font-family: Arial, Helvetica,
+                                          sans-serif;
+                                        font-size: 15px;
+                                        line-height: 135%;
+                                        color: #000000;
+                                        padding-bottom: 15px;
+                                        mso-line-height-rule: exactly;
+                                      "
+                                    >
+                                      Hi @@@FriendName,
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td
+                                      style="
+                                        font-family: Arial, Helvetica,
+                                          sans-serif;
+                                        font-size: 15px;
+                                        line-height: 135%;
+                                        color: #000000;
+                                        mso-line-height-rule: exactly;
+                                        padding-bottom: 20px;
+                                      "
+                                    >
+                                      Your friend @@@UserName thinks you're
+                                      pretty awesome, and so do we. Join the one
+                                      and only PBR-focused Rank Ride Fantasy
+                                      Bull Riding League.
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td
+                                      style="
+                                        font-family: Arial, Helvetica,
+                                          sans-serif;
+                                        font-size: 15px;
+                                        line-height: 135%;
+                                        color: #000000;
+                                        mso-line-height-rule: exactly;
+                                        padding-bottom: 20px;
+                                      "
+                                    >
+                                      We partnered with PBR (Professional Bull
+                                      Riders) to give you (the fans of the most
+                                      intense sport on dirt) the chance to raise
+                                      the stakes and win cash prizes while
+                                      competing with friends and other fans
+                                      across the country.
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td
+                                      style="
+                                        font-family: Arial, Helvetica,
+                                          sans-serif;
+                                        font-weight: 600;
+                                        font-size: 15px;
+                                        line-height: 135%;
+                                        color: #000000;
+                                        mso-line-height-rule: exactly;
+                                        padding-bottom: 15px;
+                                      "
+                                    >
+                                      Over $25,000 in prizes! Year-end champion
+                                      wins $10,000 and a one-of-a-kind custom
+                                      gold buckle.
+                                    </td>
+                                  </tr>
+
+                                  <tr>
+                                    <td
+                                      style="
+                                        padding-top: 0px;
+                                        padding-bottom: 20px;
+                                        padding-right: 0;
+                                        padding-left: 0;
+                                        text-align: left;
+                                      "
+                                    >
+                                      <!--[if (gte mso 9)|(IE)]>
+                                          <table width="100%">
+                                          <tr>
+                                          <td width="50%" valign="top" >
+                                          <![endif]-->
+                                      <div
+                                        class="column"
+                                        style="
+                                          width: 100%;
+                                          max-width: 180px;
+                                          display: inline-block;
+                                          vertical-align: top;
+                                          padding-right: 10px;
+                                          padding-top: 10px;
+                                        "
+                                      >
+                                        <table
+                                          width="100%"
+                                          cellpadding="0"
+                                          cellspacing="0"
+                                          style="border-spacing: 0"
+                                        >
+                                          <tr>
+                                            <td                                              
+                                              style="                                                
+                                                padding-bottom: 15px;
+                                                font-family: Arial, Helvetica, sans-serif;
+                                                font-size: 15px;
+                                                line-height: 135%;
+                                                color: #000000;
+                                                mso-line-height-rule: exactly;
+                                              "
+                                            >Check us out for free!
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td
+                                              style="
+                                                font-family: Arial, Helvetica, sans-serif;
+                                                font-size: 15px;
+                                                line-height: 135%;
+                                                color: #000000;
+                                                mso-line-height-rule: exactly;
+                                              "
+                                            >
+                                              The Rank Ride Team
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td
+                                              style="
+                                                padding-top: 35px;
+                                                padding-bottom: 35px;
+                                              "
+                                              width="100%"
+                                            >
+                                              <a
+                                                style="
+                                                  font-family: Arial, Helvetica,
+                                                    sans-serif;
+                                                  font-size: 14px;
+                                                  font-weight: 500;
+                                                  line-height: 135%;
+                                                  background-color: #df6a2e;
+                                                  color: #ffffff;
+                                                  text-decoration: none;
+                                                  border-radius: 3px;
+                                                  mso-line-height-rule: exactly;
+                                                  padding: 12px 30px 12px 30px;
+                                                "
+                                                href="@@@SignUpUrl"
+                                                target="_blank"
+                                                rel="noopener"
+                                                >SIGN UP NOW</a
+                                              >
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </div>
+                                      <!--[if (gte mso 9)|(IE)]>
+                                          </td><td width="50%" valign="top" >
+                                          <![endif]-->
+                                      <div
+                                        class="column"
+                                        style="
+                                          width: 100%;
+                                          max-width: 170px;
+                                          display: inline-block;
+                                          vertical-align: top;
+                                        "                                        
+                                      >                                       
+
+                                        <table
+                                               
+                                        style="
+                                          margin: 0;
+                                          padding: 0;
+                                          background-image: url('https://rankridefantasy.com/images/email/buckle.png');
+                                          background-position: top;
+                                          background-repeat: no-repeat;
+                                          background-size: 100% auto;
+                                        "
+                                        border="0"
+                                        width="100%"
+                                        cellspacing="0"
+                                        cellpadding="0"                                        
+                                      >
+                                        <tbody>
+                                          <tr>
+                                            <td
+                                              style="padding-top: 60px; padding-bottom: 60px"
+                                              align="right"
+                                              height="100%"
+                                            >
+                                              <center style="max-width: 200px; width: 100%">
+                                                <!-- [if gte mso 9]>
+                                          <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                                          <![endif]-->
+                                                <table
+                                                  class="content"
+                                                  style="
+                                                    margin: 0;
+                                                    padding-top: 0;
+                                                    padding-bottom: 20px;                                                    
+                                                  "
+                                                  border="0"
+                                                  width="100%"
+                                                  cellspacing="0"
+                                                  cellpadding="0"
+                                                >
+                                                  <tbody>
+                                                    <tr>
+                                                      
+                                                    </tr>
+                                                  </tbody>
+                                                </table>
+                                                <!-- [if gte mso 9]>
+                                          </td></tr></table>
+                                          <![endif]-->
+                                              </center>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      </div>
+                                      <!--[if (gte mso 9)|(IE)]>
+                                          </td>
+                                          </tr>
+                                          </table>
+                                          <![endif]-->
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <!-- [if gte mso 9]>
+                        </td></tr></table>
+                        <![endif]-->
+                            </center>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <table
+              class="content"
+              style="
+                margin: 0;
+                padding-top: 10px;
+                padding-bottom: 20px;
+                padding-right: 20px;
+                padding-left: 20px;
+              "
+              border="0"
+              width="100%"
+              cellspacing="0"
+              cellpadding="0"
+              bgcolor="#ffffff"
+            >
+              <tbody>
+                <tr>
+                  <td>
+                    <table
+                      style="
+                        margin: 0;
+                        padding: 0;
+                        background-image: url('https://rankridefantasy.com/images/email/background_2.png');
+                        background-position: top center;
+                        background-repeat: no-repeat;
+                        background-size: auto 100%;
+                      "
+                      border="0"
+                      width="100%"
+                      cellspacing="0"
+                      cellpadding="0"
+                      bgcolor="#000000"
+                    >
+                      <tbody>
+                        <tr>
+                          <td
+                            style="padding-top: 60px; padding-bottom: 60px"
+                            align="center"
+                            height="100%"
+                          >
+                            <center style="max-width: 550px; width: 100%">
+                              <!-- [if gte mso 9]>
+                        <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                        <![endif]-->
+                              <table
+                                class="content"
+                                style="
+                                  margin: 0;
+                                  padding-top: 20px;
+                                  padding-bottom: 20px;
+                                  padding-right: 40px;
+                                  padding-left: 40px;
+                                "
+                                border="0"
+                                width="100%"
+                                cellspacing="0"
+                                cellpadding="0"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      style="
+                                        font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+                                        font-style: italic;
+                                        font-weight: bold;
+                                        font-size: 3.5rem;
+                                        color: #ffffff;
+                                        padding-left: 5px;
+                                        padding-right: 5px;
+                                        padding-bottom: 90px;
+                                        padding-top: 90px;
+                                        mso-line-height-rule: exactly;
+                                        text-shadow: 0px 4px 4px
+                                          rgba(0, 0, 0, 0.25);
+                                      "
+                                      align="center"
+                                      width="100%"
+                                    ></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <!-- [if gte mso 9]>
+                        </td></tr></table>
+                        <![endif]-->
+                            </center>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr style="width: 100%">
+          <td>
+            <table
+              style="margin: 0; padding: 0"
+              border="0"
+              width="100%"
+              cellspacing="0"
+              cellpadding="0"
+              bgcolor="#000000"
+            >
+              <tbody>
+                <tr>
+                  <td
+                    style="
+                      padding-top: 0px;
+                      padding-bottom: 0;
+                      padding-right: 0;
+                      padding-left: 0;
+                      text-align: center;
+                    "
+                  >
+                    <!--[if (gte mso 9)|(IE)]>
+                <table width="100%">
+                <tr>
+                <td width="50%" valign="top" >
+                <![endif]-->
+                    <div
+                      class="column"
+                      style="
+                        width: 100%;
+                        max-width: 190px;
+                        display: inline-block;
+                        vertical-align: middle;
+                      "
+                    >
+                      <table
+                        width="100%"
+                        cellpadding="0"
+                        cellspacing="0"
+                        style="border-spacing: 0"
+                      >
+                        <tr>
+                          <td
+                            align="center"
+                            style="
+                              padding-top: 10px;
+                              padding-bottom: 5px;
+                              padding-right: 5px;
+                              padding-left: 5px;
+                            "
+                          >
+                            <img src="https://rankridefantasy.com/images/email/RR_Logo.png" alt="" width="130" />
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]>
+                </td><td width="50%" valign="top" >
+                <![endif]-->
+                    <div
+                      class="column"
+                      style="
+                        width: 100%;
+                        max-width: 370px;
+                        display: inline-block;
+                        vertical-align: middle;
+                      "
+                    >
+                      <table
+                        width="100%"
+                        cellpadding="0"
+                        cellspacing="0"
+                        style="border-spacing: 0"
+                      >
+                        <tr>
+                          <td
+                            align="center"
+                            style="
+                              padding-top: 10px;
+                              padding-bottom: 5px;
+                              padding-right: 5px;
+                              padding-left: 5px;
+                              text-align: center;
+                              font-family: Arial, Helvetica, sans-serif;
+                              font-size: 15px;
+                              line-height: 18px;
+                              color: #222222;
+                            "
+                          >
+                            <center>
+                              <!-- [if gte mso 9]>
+                        <table border="0" cellpadding="0" cellspacing="0" style="margin:0; padding:0"><tr><td>
+                        <![endif]-->
+                              <table
+                                class="content"
+                                border="0"
+                                width="100%"
+                                cellspacing="0"
+                                cellpadding="0"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      style="
+                                        padding-top: 15px;
+                                        padding-bottom: 15px;
+                                      "
+                                      align="center"
+                                      width="100%"
+                                    >
+                                      <a
+                                        style="
+                                          display: inline-block;
+                                          padding-right: 5px;
+                                        "
+                                        href="https://instagram.com/rankridefantasy?utm_medium=copy_link"
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        <img
+                                          src="https://rankridefantasy.com/images/email/icon-instagram.png"
+                                          alt="Instagram"
+                                        />
+                                      </a>
+                                      <a
+                                        style="
+                                          display: inline-block;
+                                          padding-right: 5px;
+                                        "
+                                        href="https://vm.tiktok.com/ZMdv8R4VU/"
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        <img
+                                          src="https://rankridefantasy.com/images/email/icon-tiktok.png"
+                                          alt="Tiktok"
+                                        />
+                                      </a>
+                                      <a
+                                        style="
+                                          display: inline-block;
+                                          padding-right: 5px;
+                                        "
+                                        href="https://www.facebook.com/rankrideapp/"
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        <img
+                                          src="https://rankridefantasy.com/images/email/icon-facebook.png"
+                                          alt="Facebook"
+                                        />
+                                      </a>
+                                      <a
+                                        style="
+                                          display: inline-block;
+                                          padding-right: 5px;
+                                        "
+                                        href="https://youtube.com/channel/UC2x0-RNeULh2AUsCR5TulFg"
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        <img
+                                          src="https://rankridefantasy.com/images/email/icon-youtube.png"
+                                          alt="Youtube"
+                                        />
+                                      </a>
+                                      <a
+                                        style="display: inline-block"
+                                        href="https://rankridefantasy.com/contact-us"
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        <img
+                                          src="https://rankridefantasy.com/images/email/icon-getintouch.png"
+                                          alt="Get in Touch"
+                                        />
+                                      </a>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td
+                                      style="text-align: center"
+                                      align="center"
+                                      width="100%"
+                                    >
+                                      <a
+                                        style="
+                                          font-family: 'Roboto Condensed', Arial,
+                                            Helvetica, sans-serif;
+                                          line-height: 1.5rem;
+                                          font-weight: 400;
+                                          text-transform: uppercase;
+                                          color: #f0d283;
+                                        "
+                                        href="{{}}"
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        UNSUBSCRIBE
+                                      </a>
+                                      <span
+                                        style="
+                                          font-family: 'Roboto Condensed', Arial,
+                                            Helvetica, sans-serif;
+                                          font-weight: 400;
+                                          color: #f0d283;
+                                          padding-right: 5px;
+                                          padding-left: 5px;
+                                        "
+                                        >|</span
+                                      >
+                                      <a
+                                        style="
+                                          font-family: 'Roboto Condensed', Arial,
+                                            Helvetica, sans-serif;
+                                          line-height: 1.5rem;
+                                          font-weight: 400;
+                                          text-transform: uppercase;
+                                          color: #f0d283;
+                                        "
+                                        href="{{}}"
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        DISCLAIMER
+                                      </a>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td
+                                      style="
+                                        padding-bottom: 30px;
+                                        text-align: center;
+                                      "
+                                      align="center"
+                                      width="100%"
+                                    >
+                                      <p
+                                        style="
+                                          font-family: 'Roboto Condensed', Arial,
+                                            Helvetica, sans-serif;
+                                          font-weight: 400;
+                                          text-transform: uppercase;
+                                          color: #f0d283;
+                                        "
+                                        target="_blank"
+                                        rel="noopener"
+                                      >
+                                        &copy; 2021 Rank Ride All Rights
+                                        Reserved
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <!-- [if gte mso 9]>
+                      </td></tr></table>
+                      <![endif]-->
+                            </center>
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+                  </td>
+
+                  <td
+                    style="
+                      padding-top: 0px;
+                      padding-bottom: 20px;
+                      padding-right: 0;
+                      padding-left: 0;
+                      text-align: center;
+                    "
+                  ></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+
+
+      ]]>
+    </Body>
+  </InviteEmailSent>
+</Template>
